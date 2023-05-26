@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+	max-width: 100%
+}
+nav {
+  width: 100%;
+  margin-top: auto;
+  height: 60px;
+  background-color: navy;
+  display: flex;
+  margin: auto;
+}
+nav a:hover {
+	 background: linear-gradient(45deg, red, rgb(245, 14, 122));
+	  color: rgb(253, 252,252 );
+}
+img {
+    max-width: 100%;
+}
+header {
+  background-color: black;
+  color: white; 
+  height: 150px;
+  margin: auto;
+  width: 100%
+}
+
+section {
+	margin-top: 25px;
+	height: fit-content;
+	background-color: white;
+	margin: auto;
+}
+footer {
+	margin-top: 30px;
+	height: 300px;
+	background-color: black;
+	color: white;
+	margin: auto;
+}
+
+
+  body { 
+  height: fit-content ; 
+  background-size: cover;
+  position: flexible; 
+  margin: 0;
+}
+.image {
+	float: left;
+	margin: auto
+}
+.name {
+	float: left;
+	margin: auto;
+	font-size: 30pt;
+}
+.margin {
+	margin: auto;
+	text-decoration: none;
+	font-size: 15pt;
+	color: black;
+}
+.marg {
+	text-decoration: none;
+	font-size: 15pt;
+	color: white;
+	margin-top: 120px;
+}
+.footer-name {
+	margin-left: 5px;
+	font-size: 15pt;
+	margin: auto;
+}
+input[type=text] {
+  float: right;
+  margin-top: auto;
+  font-size: 12pt;
+}
+
+.Coming-Soon{
+	width: 100%;
+	height: fit-content;
+	display: flex;
+	vertical-align: middle;
+	margin-bottom: 0;
+	margin-top: 0;
+	margin-left: auto;
+}
+.coming {
+	margin: auto;
+}
+.comingS {
+	margin: auto;
+}
+.Csoon {
+	margin: auto;
+}
+.coming-last {
+	margin: auto;
+}
+.Right {
+	float: right;
+	margin-top: 40px;
+	margin: auto;
+	margin-right: 70px;
+}
+.videoC {
+    margin-right: 300px;	
+}
+.textW {
+	margin-right: 300px;
+}
+.bottom {
+	margin-top: auto;
+}
+.bottomF {
+	margin-top: 1280px;
+}
+.pic {
+	float: right;
+	margin: auto;
+	margin-right: 50px
+}
+.gotham {
+	margin-left: 40px;
+	margin: auto;
+	margin-left: 50px;
+}
+.bgc {
+	background-color: black;
+}
+
+
+
+
